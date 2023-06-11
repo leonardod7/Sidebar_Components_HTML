@@ -7,7 +7,7 @@
 
 
 <div>
-  https://leonardod7.github.io/Sidebar_Components_HTML/
+  <img src="https://leonardod7.github.io/Sidebar_Components_HTML/"
 </div>
 
 

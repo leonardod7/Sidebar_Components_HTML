@@ -2,7 +2,7 @@
 # Projeto Desenvolvimento WEB
 
 <div>
-<img src="https://github.com/leonardod7/Apoena/assets/107505958/c4aae639-917a-4f5e-a448-b501f5bcf228" width='200px' height='110px'  />
+<img src="https://github.com/leonardod7/Apoena/assets/107505958/c4aae639-917a-4f5e-a448-b501f5bcf228" width='200px' height='110px'
 </div>
 
 

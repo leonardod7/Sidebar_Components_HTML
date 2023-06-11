@@ -2,7 +2,7 @@
 # Projeto Desenvolvimento WEB
 
 <div>
-<img src="https://github.com/leonardod7/Sidebar_Components_HTML/assets/107505958/1c570341-e4cf-47b2-af30-dfb0a4821398" width='200px' height='110px'
+<img src="https://github.com/leonardod7/Sidebar_Components_HTML/assets/107505958/1c570341-e4cf-47b2-af30-dfb0a4821398" width='200px' height='90px'
 </div>
 
 

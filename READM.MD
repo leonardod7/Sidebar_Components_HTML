@@ -38,12 +38,8 @@ O projeto visa a construção de uma aplicação WEB, que deverá rodar no GitHu
 
 ## Resumo da Resolução
 
-Para resolver o problema, foi utilizado apenas HTML e CSS para a construç
-oculta o todo o elenco e mostra somente o card daquele atleta que clicamos.ão
-oculta o todo o elenco e mostra somente o card daquele atleta que clicamos. da sidebar
+Para resolver o problema, foi utilizado apenas HTML e CSS.
 
-
-<div id='ref'/>
 
 
 
